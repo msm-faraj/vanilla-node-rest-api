@@ -1,1 +1,32 @@
-[{"title":"Test Product","description":"This is my product","price":100},{"title":"Test Product","description":"This is my product","price":100,"id":"4721e658-1464-4504-93cc-8cb53c272fa7"},{"title":"Test Product","description":"This is my product","price":100,"id":"ac3d62e8-5869-4be7-8daa-68c39477a5ba"},{"title":"Test Product","description":"This is my product","price":100,"id":"a5fef05a-6084-4c7e-bb24-86652ae1185f"}]
+[
+  {
+    "title": "Test Product",
+    "description": "This is my product",
+    "price": 100,
+    "id": "ac3d62e8-5869-4be7-8daa-68c39477a5ba"
+  },
+  {
+    "title": "Test Product",
+    "description": "This is my product",
+    "price": 100,
+    "id": "a5fef05a-6084-4c7e-bb24-86652ae1185f"
+  },
+  {
+    "title": "myTitle",
+    "description": "myDescription",
+    "price": "6000",
+    "id": "203e5aff-516c-4bcb-8179-f2408d9558d1"
+  },
+  {
+    "title": "myTitle",
+    "description": "myDescription",
+    "price": "6000",
+    "id": "fcb060db-dd9e-4d4a-80da-dcc4d2170546"
+  },
+  {
+    "title": "myTitle",
+    "description": "myDescription",
+    "price": "600",
+    "id": "6c01beb3-8f3f-4456-aa83-f0db66bda80e"
+  }
+]
